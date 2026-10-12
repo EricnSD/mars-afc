@@ -1,3 +1,13 @@
+# MARS AFC Development Instructions
+
+This repository contains software and supporting materials for the
+South Dakota Mines MARS Active Flight Control (AFC) system.
+
+The current development direction uses an ESP32-S3 with ESP-IDF,
+C/C++, and FreeRTOS. The project includes sensor acquisition, state
+estimation, flight-state detection, apogee prediction, aerobrake
+control, data logging, simulation, and testing.
+
 ## Development Philosophy
 
 This is a student engineering project, and the student team is responsible
